@@ -1,0 +1,31 @@
+
+body{  
+background-color: #5F7367;
+font-size: 60px;}
+#box{
+  border-style: ridge;
+  border-color:#d9d7dd;
+  border-width: 10px;
+  display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+min-height: 50vh;
+background-color: #b07bac;
+margin-top: 100px;
+
+}
+#div-buttons{  
+  display: flex;
+flex: row;
+justify-content: space-between;
+gap: 200px;}
+button{
+  min-width: 100px;
+border-radius: 20%;
+background-color: #DBF9F4;
+min-height: 100px;
+font-size: 50px;
+cursor:pointer;
+}
+
