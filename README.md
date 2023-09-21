@@ -37,4 +37,4 @@ press `+` or `-` to increase or decrease the value of the counter. Press `reset`
 
 ## link:
 
-[counter js](https://pixinini.github.io/counter-in-js/)
+[counter js](https://annamilano1.github.io/counter-in-js/)
